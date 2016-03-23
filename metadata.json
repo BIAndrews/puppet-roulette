@@ -1,18 +1,12 @@
 {
-  "name": "puppet-roulette",
-  "version": "0.1.0",
+  "name": "bryana-roulette",
+  "version": "0.1.1",
   "author": "Bryan Andrews",
   "summary": "Puppet Russian roulette module",
   "license": "Apache-2.0",
   "source": "git@github.com:BIAndrews/puppet-roulette.git",
   "project_page": "https://github.com/BIAndrews/puppet-roulette",
   "issues_url": "https://github.com/BIAndrews/puppet-roulette/issues",
-  "dependencies": [
-    {
-      "name": "puppetlabs-stdlib",
-      "version_requirement": ">= 1.0.0"
-    }
-  ],
   "operatingsystem_support": [
     {
       "operatingsystem": "Debian",
