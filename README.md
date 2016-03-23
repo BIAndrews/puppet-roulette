@@ -58,7 +58,7 @@ Optional. Specify the shell script file name. Default: `/etc/profile.d/puppet_ro
 
 ## Limitations
 
-This is Linux only puppet module.
+This is a Linux only puppet module.
 
 ## Development
 
